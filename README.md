@@ -126,14 +126,3 @@ To serve the built frontend from `server`, you can add a static middleware in Ex
 **Contributing**
 - Fork the repo and open a branch for your change: `feature/your-change`.
 - Open a pull request and include a short description of the change and how to test it.
-
-**License & Contact**
-- Add your preferred license to the repository root (e.g., `LICENSE`).
-- For questions, open an issue or contact the maintainer.
-
----
-
-If you'd like, I can:
-- add a small `npm` script that runs client and server concurrently,
-- or add an Express static-serving route and a single `start` script for production.
-Tell me which option you prefer and I will implement it.
